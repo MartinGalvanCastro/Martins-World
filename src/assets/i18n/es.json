@@ -1,0 +1,29 @@
+{
+  "HOME": {
+    "TITLE":"About me:",
+    "STATUS": "Unemployed",
+    "BIO": "Hi, my name is Martin David Galvan Castro and this is my portfolio website. I'm a Mechanical Engineer graduated from Universidad de los Andes in Colombia, also I'm in my senior year of Computer and System Engineering (It's similar to computer science).",
+    "SOFTWARES": [
+      { "NAME": "Matlab", "LEVEL": "Proficient" },
+      { "NAME": "Autodesk Inventor", "LEVEL": "Proficient" },
+      { "NAME": "Ansys Workbench", "LEVEL": "Proficient" }
+    ],
+    "PROGRAMMING":[
+      {"NAME":"Java","LEVEL":"Proficient"},
+      {"NAME":"Python","LEVEL":"Proficient"},
+      {"NAME":"Django","LEVEL":"Proficient"},
+      {"NAME":"Amazon Web Services","LEVEL":"Intermediate"},
+      {"NAME":"MySQL","LEVEL":"Proficient"},
+      {"NAME":"MongoDB","LEVEL":"Intermediate"}
+    ],
+    "ABOUT_THIS_WS": "The purpose of this website is were I upload stuff I'm currently working on, updates and most importantly my CV. I'm looking to get a job contract, but I also would work as a FreeLancer website designer, so in here you will find some demos that I develop. This website was made using Angular"
+  },
+  "GENERAL":
+  {
+    "PROFESSION1": "Mechanical Engineer",
+    "PROFESSION2": "Senior Computer and System Engineer Student",
+    "PROFESSION3": "Web Developer"
+  },
+  "MENU":["About Me","My Current Projects","Some Demos","My CV"]
+}
+

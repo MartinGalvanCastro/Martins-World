@@ -1,0 +1,35 @@
+.porfile-pic {
+  border: 1px solid lightgray;
+  border-radius: 50%;
+  padding: 2 px;
+  background: white;
+  box-shadow: 0 0 2px 1px rgba(185, 182, 182, 0.603);
+}
+
+#PhotoName {
+  border-top: 10px;
+  background-color: rgb(250, 250, 250);
+}
+
+ul#Menu{
+  list-style: none;
+  margin-left: -40px;
+}
+
+
+.socialMedia-icon{
+  height:30px;
+  width:30px;
+}
+
+.socialMedia{
+  align-content: center;
+}
+
+ul#sUL {
+  list-style: none;
+  padding-top: 20px;
+}
+ul#sUL li {
+  display: inline;
+}
